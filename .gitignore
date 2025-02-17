@@ -1,0 +1,11 @@
+data
+result
+*.sh
+*.txt
+estimate_distribution
+groupfile
+groupfile_cov
+groupfile_kl
+__pycache__
+process_cifar   
+process_fmnist
