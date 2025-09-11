@@ -1,6 +1,6 @@
 ## Group-based Federated Learning with Cost-efficient Sampling Mechanism in Mobile Edge Computing Networks
 
-The paper is currently under review (in IEEE Trans. Mobile Comput.).
+The paper has been accepted by IEEE Trans. Mobile Comput. 
 
 The part of the work was published in the IEEE International Conference  on Communications (ICC), Denver, CO, USA, 9–13 June 2024 (<a href="https://ieeexplore.ieee.org/document/10623087" target="_blank">Energy-Efficient Client Sampling for Federated Learning in Heterogeneous Mobile Edge Computing Networks</a>).
 
@@ -40,3 +40,26 @@ You can run through the experiment with the following code
 ```
 python main.py --server proposed
 ```
+### 4. Citation
+
+Finally, I would like to say this.
+
+If this code was helpful for you, could you please cite this paper and give a star to this project? I really appreciate that !!!
+
+```
+J. Tang, X. Li, G. Xu, P. Li, X. Wang and V. C. M. Leung, "Joint Class-Balanced Client Selection and Bandwidth Allocation for Cost-Efficient Federated Learning in Mobile Edge Computing Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3539284.
+```
+
+or (BibTeX)
+
+```
+
+@ARTICLE{GFLCSM,
+    author={Tang, Jian and Li, Xiuhua and Xu, Guozeng and Li, Penghua and Wang, Xiaofei and Leung, Victor C. M.},
+    journal={{IEEE} Trans. Mob. Comput.},
+    title={Group-based Federated Learning with Cost-efficient Sampling Mechanism in Mobile Edge Computing Networks}, 
+    year={2025},
+    pages={1-18},
+    note={10.1109/TMC.2025.3608024}}
+```
+
