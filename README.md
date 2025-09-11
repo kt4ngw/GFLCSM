@@ -47,7 +47,7 @@ Finally, I would like to say this.
 If this code was helpful for you, could you please cite this paper and give a star to this project? I really appreciate that !!!
 
 ```
-J. Tang, X. Li, G. Xu, P. Li, X. Wang and V. C. M. Leung, "Joint Class-Balanced Client Selection and Bandwidth Allocation for Cost-Efficient Federated Learning in Mobile Edge Computing Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3539284.
+J. Tang, X. Li, G. Xu, P. Li, X. Wang and V. C. M. Leung, "Group-based Federated Learning with Cost-efficient Sampling Mechanism in Mobile Edge Computing Networks," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3608024.
 ```
 
 or (BibTeX)
