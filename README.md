@@ -40,12 +40,12 @@ You can run through the experiment with the following code
 ```
 python main.py --server proposed
 ```
-4. Rectification
+### 4. Rectification
 Below are some typographical errors found in the published manuscript. Please feel free to point them out at any time. Your corrections are the most important source of our mutual progress.
 
 20251018:  ``Combining (17),(19), and (6) in [38], we have'' should be revised to: ``Combining (17),(19), and (6) in [37], we have'' -- Seeing this mistake, I feel sad.
 
-### 4. Citation
+### 5. Citation
 
 Finally, I would like to say this.
 
