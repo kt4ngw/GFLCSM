@@ -66,7 +66,7 @@ or (BibTeX)
     year={2025},
     volume = {25},
     number = {2},
-    pages = {2202-2219}
+    pages = {2202-2219},
     month={Feb.}}
 ```
 
