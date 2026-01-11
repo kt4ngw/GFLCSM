@@ -64,7 +64,9 @@ or (BibTeX)
     journal={{IEEE} Trans. Mob. Comput.},
     title={Group-based Federated Learning with Cost-efficient Sampling Mechanism in Mobile Edge Computing Networks}, 
     year={2025},
-    pages={1-18},
-    note={10.1109/TMC.2025.3608024}}
+    volume = {25},
+    number = {2},
+    pages = {2202-2219}
+    month={Feb.}}
 ```
 
