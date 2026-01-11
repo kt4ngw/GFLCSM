@@ -63,7 +63,7 @@ or (BibTeX)
     author={Tang, Jian and Li, Xiuhua and Xu, Guozeng and Li, Penghua and Wang, Xiaofei and Leung, Victor C. M.},
     journal={{IEEE} Trans. Mob. Comput.},
     title={Group-based Federated Learning with Cost-efficient Sampling Mechanism in Mobile Edge Computing Networks}, 
-    year={2025},
+    year={2026},
     volume = {25},
     number = {2},
     pages = {2202-2219},
